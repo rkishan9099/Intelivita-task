@@ -1,6 +1,5 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import { useData } from '../context/DataContext';
 import { useState } from 'react';
 import toast from 'react-hot-toast';
 import { useUsers } from '../context/UserContext';
